@@ -11,3 +11,5 @@
   ```
   npm run build
   ```
+## Demo Url:
+https://sivarajrathinam.github.io/image-item-carousel/
