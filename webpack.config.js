@@ -90,7 +90,7 @@ if (process.env.NODE_ENV !== 'production') {
 			path:path.resolve(__dirname,'dist'),
 			filename:"[name].[chunkhash].js",
 			chunkFilename:"[name].[chunkhash].js",
-			publicPath:'/'
+			publicPath:'/image-item-carousel/'
 		},
 		module:{
 			rules:[
