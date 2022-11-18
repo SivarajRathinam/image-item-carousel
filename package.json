@@ -31,7 +31,7 @@
     "babel-minify-webpack-plugin": "^0.3.1",
     "css-loader": "^3.2.0",
     "gh-pages": "^2.1.1",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "image-webpack-loader": "^5.0.0",
     "path": "^0.12.7",
     "react-touch": "^0.4.4",
